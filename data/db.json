@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": 5,
+      "checked": false,
+      "item": "Attend Lectures"
+    },
+    {
+      "id": 8,
+      "checked": true,
+      "item": "Household works"
+    },
+    {
+      "id": 9,
+      "checked": false,
+      "item": "Buy food items"
+    }
+  ]
+}
